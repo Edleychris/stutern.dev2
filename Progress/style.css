@@ -1,0 +1,29 @@
+*{
+    background-color: white;
+    
+}
+h1{
+    font-size: 18px;
+}
+.first_section{
+    color: green;
+    font-size: 14px;
+    padding: 10em;
+    border: 2em;
+    margin: 3em;
+
+}
+.second_section{
+    color: red;
+    font-size: 14px;
+    padding: 3em;
+    border: 2em;
+    margin: 3em;
+}
+.third_section{
+    color: blue;
+    font-size: 14px;
+    padding: 5em;
+    border: 10em;
+    margin: 05em;
+}
